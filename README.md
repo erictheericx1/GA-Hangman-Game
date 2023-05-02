@@ -10,3 +10,4 @@ This is a deliverable assignment from the General Assembly Software Engineering 
 * JavaScript
 
 
+[click here to play the game](https://erictheericx1.github.io/GA-Hangman-Game/)
