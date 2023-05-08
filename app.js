@@ -12,6 +12,13 @@ const words = [
   { word: "chocolate", hint: "A sweet food made from roasted and ground cacao seeds" },
   { word: "pizza", hint: "A savory dish typically made of dough, tomato sauce, cheese, and various toppings" },
   { word: "beach", hint: "A sandy or pebbly area along the shore of a body of water" },
+  { word: "cappuccino", hint: "A type of coffee made with espresso and steamed milk" },
+  { word: "metamorphosis", hint: "A process of transformation from an immature form to an adult form in two or more distinct stages" },
+  { word: "synesthesia", hint: "A condition in which one sense is simultaneously perceived as if by one or more additional senses" },
+  { word: "exquisite", hint: "Extremely beautiful and delicate" },
+  { word: "proboscis", hint: "big nosed monkey" },
+  { word: "bureaucracy", hint: "A system of government in which most of the important decisions are made by state officials rather than by elected representatives" },
+  { word: "cryptography", hint: "The practice of secure communication in the presence of third parties" },
 ];
 
 let randomIndex = Math.floor(Math.random() * words.length);
